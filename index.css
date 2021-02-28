@@ -1,0 +1,16 @@
+*{
+    background: rgb(170, 156, 135);
+    font-weight: 600;
+}
+h1{
+    color:black; 
+    text-align: center;
+    box-sizing: content-box;
+    font-size: xx-large;
+    font-style: oblique;
+
+}
+    p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    }
