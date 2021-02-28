@@ -1,1 +1,1 @@
-#{My Favourite Band}
+#My Favourite Band
